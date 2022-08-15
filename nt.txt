@@ -1,0 +1,2 @@
+input /ja "nightingale" <me>; wait 2; input /ja "troubadour" <me>; wait 1; input /ja "marcato" <me>; wait 2; input /ma "honor march" <me>; wait 3; input /ma "Valor Minuet V" <me>; wait 3; input /ma "Shining Fantasia" <me>; wait 3; input /ma "Scop's Operetta" <me>; wait 3; input /ma "Valor Minuet IV" <me>; wait 3; input /ma "Blade Madrigal" <me>; 
+

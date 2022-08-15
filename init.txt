@@ -1,0 +1,40 @@
+keyboard_allowmmf 1
+
+console_position 15 50
+console_color 255 255 0 0
+console_displayactivity 1
+console_fadedelay 3500
+console_screendir screenshots
+
+bind f12 showfps
+bind sysrq screenshot jpg hide
+bind ^v paste
+
+bind ~numpad0 send Gimples hmar
+bind ~numpad1 send Gimples mar2
+bind ~numpad2 send Gimples min5
+bind ~numpad3 send Gimples min4
+bind ~numpad4 send Gimples mad2
+bind ~numpad5 send Gimples mad1
+bind ~numpad7 send Gimples mfin <tid>
+bind ~numpad- send Gimples gs c set ExtraSongsMode Dummy
+bind ~numpad+ send Gimples def2
+bind ~numpadenter send Gimples def1
+bind ~numpad9 send Gimples exec nt.txt
+bind ~end send @all exec htmb.txt
+bind ^a send @all /assist Callios 
+bind ^s send @all /attack <tid>
+bind home send Gimples hll2 <tid>
+bind ~home send Gimples Cure4 Callios
+bind ~pageup send Gimples Curaga3 Callios
+bind pageup send @others follow Callios
+bind pagedown send @others exec unfollow.txt
+bind @numpad0 send Gimples Paralyna Callios
+bind @numpad1 send Gimples Silena Callios
+bind @numpad2 send Gimples Stona Callios
+bind @numpad3 send Gimples Blindna Callios
+alias sa send @all
+alias sac send @all gs c
+alias sas send @all exec
+alias sag send Gimples
+alias sacg send Gimples gs c 
